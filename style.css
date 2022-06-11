@@ -1,0 +1,40 @@
+.top{height: 100px;
+background-color: darkolivegreen
+;border-radius: 30px;
+box-shadow:5px 5px 20px rgba(0,0,0,0.7) }
+
+.menu{
+    list-style: none;
+    display: flex;
+    justify-content: right;
+    padding: 55;
+color: black;
+font-size: medium;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+.cebola{
+    width: 300px;
+    height: 600px;
+    background-color: darkgreen;
+    border-radius: 30px;
+    box-shadow:5px 5px 20px rgba(0,0,0,0.7) ;
+}
+nav ul li{
+    margin: 20px;  
+
+}
+
+.caixa{
+    width: 150;
+    height: 600;
+    background-color: dimgray;
+    border-radius: 27px;
+    box-shadow: 10px 10px 20px rgba(0,0,0,0.7);
+}
+
+body{
+    background-image:url(back.jfif) ;
+    background-repeat:no-repeat ;
+    background-size: cover;
+
+}
